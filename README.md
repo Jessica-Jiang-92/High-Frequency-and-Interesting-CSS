@@ -21,3 +21,4 @@
 - [1. iCSS](https://github.com/chokcoco/iCSS)
 - [2. You-need-know-to-CSS](https://github.com/l-hammer/You-need-to-know-css)
 - [3. Magic CSS](https://github.com/chokcoco/magicCss)
+- [4. CSS Inspiration](https://github.com/chokcoco/CSS-Inspiration)
